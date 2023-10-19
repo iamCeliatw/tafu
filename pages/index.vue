@@ -6,5 +6,5 @@ div.test
 <style lang="sass" scoped>
 
 .test
-    border: 10px solid blue
+    border: 1px solid yellow
 </style>
